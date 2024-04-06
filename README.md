@@ -1,6 +1,6 @@
 not finished.
 
-- Original by aspect
+- Original by blooper
 
 
 [Most of the code is potato and rushed]
